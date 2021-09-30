@@ -4,7 +4,13 @@
 This repo is a clone of https://github.com/nelaturuk/education_pathways
 
 
-
+#### Activity 5: Feedback
+##### Functional Feedback
+One functional improvement is the search process. Currently, search only works based on course names. For example, the term engineering works and will yield software engineering as one result.
+I would improve it so that search can find courses based on course codes. For example, entering ECE444 must yield software engineering as well.
+##### Non functional Feedback
+One non functional improvement is the usability of the search results. The results appear cluttered and there is minimal spacing between column entries. Column headers aren't fully lined up with the column entries and the data takes time to understand.
+I would improve it so that the table entries dynamically resizes itself to fit the screen with 12+ pixel spacing between entries to make the content easier to read.
 
 
 
